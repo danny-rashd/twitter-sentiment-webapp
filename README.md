@@ -1,4 +1,3 @@
-
 # Twitter Sentiment Analysis Web Application
 
 A real time web application that visualizes sentiment analysis of tweets for the Malaysian language.
