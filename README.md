@@ -7,7 +7,7 @@ A real time web application that visualizes sentiment analysis of tweets for the
 
 - [React js](https://reactjs.org/)
     - [Material-ui](https://mui.com/)
-    - [Bootsrap](https://react-bootstrap.github.io/)
+    - [Bootstrap](https://react-bootstrap.github.io/)
 - [Spring Boot](https://spring.io/projects/spring-boot)
     - [MySQL](https://spring.io/guides/gs/accessing-data-mysql/)
     - [Twitter4j](https://twitter4j.org/en/index.html)
